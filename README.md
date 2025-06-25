@@ -9,5 +9,4 @@ Find all the subsets from a set of numbers whose sum is zero.
 Constraint: Subset size must be 3 to 6 only
 Set={-12, -3, -6, 7, 2, -2, 6, 3, 9, -7, -5, -8, 1, 11, -9, -4}
 Solution
-image
 ![image](https://github.com/user-attachments/assets/82e4a6c6-434d-4bcf-9788-57378e911dae)
